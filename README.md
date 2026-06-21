@@ -82,9 +82,9 @@ CyberSecurity_Task_01_Bhakti_Parhad/
 ├── Awareness_Poster.png
 ├── Reflection_Report.pdf
 └── README.md
-```
----
 
+---
+```
 ## 🎯 Learning Outcomes
 
 Through this task, I learned to:
